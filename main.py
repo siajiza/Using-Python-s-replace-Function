@@ -5,3 +5,4 @@ print(sentence.replace('quick', 'slow'))
 
 sentence = sentence.replace('quick', 'slow')
 print(sentence)
+
